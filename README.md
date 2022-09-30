@@ -9,5 +9,6 @@ Principais cheatsheets, guias e códigos que auxiliam no Desenvolvimento, servin
 
 
 # SQL Server
-https://www.cadcobol.com.br/sql_cheat_sheet_sqlserver.pdf
+![SQL](https://user-images.githubusercontent.com/10932478/193168877-d5e1d4a7-d587-44cb-bc19-04d34715a105.jpg)
+</br>https://www.cadcobol.com.br/sql_cheat_sheet_sqlserver.pdf
 </br>https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf
